@@ -1,0 +1,790 @@
+/* DEVICES (MOBILE) */
+@media only screen and (min-width: 375px){
+
+
+body{
+	margin-top:20px;
+    background-color:#FFB795;
+}
+
+    header{
+        background-image: url("../images/nameHeader.jpg");
+        background-size:contain;
+        background-repeat:no-repeat;
+        margin-right: 5px;
+        margin-left: 5px;
+        height:24px;
+
+   } 
+
+
+    nav{
+        grid-area: nav;
+        background-color: pink;
+        text-align: center;
+        word-spacing: 20px;
+        padding-left: 12px;
+        font-size:.75em;
+        font-color: #595755;
+    }
+
+
+    article{
+        grid-area: article;
+        align-content: center;
+    }
+
+
+    .news{
+        background-color: white;
+        display: grid;
+        height: 180px;
+        width: 350px;
+    }
+
+
+	
+	.ABOUT{
+		padding: 10px;
+	}
+
+ 	
+
+    .facts{
+        text-align:center;
+        
+    }
+
+    #name{color: #595755;}
+
+    #indexPhoto{
+        width: 330px;
+        height: 160px;
+    }
+
+    #resumeImage{
+    width:350px;
+    height:450px;
+    }
+
+    #aboutMePhoto{
+       width:250px;
+        height:350px;
+    }
+
+    #contactImage{
+        width:250px; 
+        height:350px;
+    }
+    
+    #mediaImage{
+        width:360px; 
+        height:250px;
+    }
+    
+
+/* Travel one Start - 9 images Gallery 1-9 */ 
+
+/*1*/#gallery1
+{
+    background-image: url("../images/iceland/icelandDayOne/flight.jpg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:200px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*2*/#gallery2
+{
+    background-image: url("../images/iceland/icelandDayOne/viewFromBus1.jpg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*3*/#gallery3
+{
+    background-image: url("../images/iceland/icelandDayOne/sarahAndI.jpg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:200px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*4*/#gallery4
+{
+    background-image: url("../images/iceland/icelandDayOne/einarBenediktsson.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*5*/#gallery5
+{
+    background-image: url("../images/iceland/icelandDayOne/outsideChurch.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*6*/#gallery6
+{
+    background-image: url("../images/iceland/icelandDayOne/insideChurch.jpg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:200px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*7*/#gallery7
+{
+    background-image: url("../images/iceland/icelandDayOne/churchGlass.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*8*/#gallery8
+{
+    background-image: url("../images/iceland/icelandDayOne/people.jpg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:200px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+
+}
+
+/*9*/#gallery9
+{
+    background-image: url("../images/iceland/icelandDayOne/musicBuilding.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:200px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*Travel One DONE*/
+
+/*Travel Two Start - 12 Images Gallery 10-21*/
+
+/*1*/ #gallery10{
+background-image: url("../images/iceland/icelandDayTwoo/horse.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*2*/ #gallery11{
+background-image: url("../images/iceland/icelandDayTwoo/horseFromFront.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+    
+/*3*/ #gallery12{
+background-image: url("../images/iceland/icelandDayTwoo/beeFirst.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*4*/ #gallery13{
+    background-image: url("../images/iceland/icelandDayTwoo/insideBeeFarm.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*5*/ #gallery14{
+    background-image: url("../images/iceland/icelandDayTwoo/beeWalkWay.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*6*/ #gallery15{
+    background-image: url("../images/iceland/icelandDayTwoo/multiSide.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*7*/ #gallery16{
+    background-image: url("../images/iceland/icelandDayTwoo/multiWaterfall.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:200px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*8*/ #gallery17{
+    background-image: url("../images/iceland/icelandDayTwoo/peopleGoldenC.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:200px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*9*/ #gallery18{
+    background-image: url("../images/iceland/icelandDayTwoo/goldenCircleActual.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:300px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*10*/ #gallery19{
+    background-image: url("../images/iceland/icelandDayTwoo/peopleGoldenCTwo.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:200px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*11*/ #gallery20{
+    background-image: url("../images/iceland/icelandDayTwoo/geyser.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*12*/ #gallery21{
+    background-image: url("../images/iceland/icelandDayTwoo/postGeyser.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+*/
+
+/*Travel Three Start - 8 images Gallery 22-29 */
+/*1*/#gallery22{
+    background-image: url("../images/iceland/icelandDayThree/runningHorses.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:200px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*2*/#gallery23{
+    background-image: url("../images/iceland/icelandDayThree/waterfallOneInFront.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:200px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*3*/#gallery24{
+    background-image: url("../images/iceland/icelandDayThree/behindWaterfall.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*4*/#gallery25{
+    background-image: url("../images/iceland/icelandDayThree/downSteps.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:200px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*5*/#gallery26{
+    background-image: url("../images/iceland/icelandDayThree/infrontWaterfall.jpg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:200px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*6*/#gallery27{
+    background-image: url("../images/iceland/icelandDayThree/secondWaterfall.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*7*/#gallery28{
+    background-image: url("../images/iceland/icelandDayThree/blackSandBeach.jpg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:200px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*8*/#gallery29{
+    background-image: url("../images/iceland/icelandDayThree/rocksBlackSands.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:200px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*Travel Four - 11 images Gallery 30-40 */
+/*1*/#gallery30{
+    background-image: url("../images/iceland/icelandDayFour/glacierGroup.jpg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:200px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*2*/#gallery31{
+    background-image: url("../images/iceland/icelandDayFour/walkingToGlacier.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*3*/#gallery32{
+    background-image: url("../images/iceland/icelandDayFour/leaderInFront.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:300px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*4*/#gallery33{
+    background-image: url("../images/iceland/icelandDayFour/atTheTop.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:400px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*5*/#gallery34{
+    background-image: url("../images/iceland/icelandDayFour/viewFromTop.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*6*/#gallery35{
+    background-image: url("../images/iceland/icelandDayFour/walkdownView.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:300px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*7*/#gallery36{
+    background-image: url("../images/iceland/icelandDayFour/wayDownCave.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*8*/#gallery37{
+    background-image: url("../images/iceland/icelandDayFour/windTurbinePlace.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*9*/#gallery38{
+    background-image: url("../images/iceland/icelandDayFour/dome.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*10*/#gallery39{
+    background-image: url("../images/iceland/icelandDayFour/vikingFestival.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*11*/#gallery40{
+    background-image: url("../images/iceland/icelandDayFour/viewFromRoad.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:300px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*Travel Five Starts Here - 9 Images - Gallery 41-49 */
+/*1*/#gallery41{
+    background-image: url("../images/iceland/icelandDayFive/sulfericRock.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:400px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*2*/#gallery42{
+    background-image: url("../images/iceland/icelandDayFive/sulfericRockTwo.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:400px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*3*/#gallery43{
+    background-image: url("../images/iceland/icelandDayFive/smallEditBL.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*4*/#gallery44{
+    background-image: url("../images/iceland/icelandDayFive/blueLagoonSign.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*5*/#gallery45{
+    background-image: url("../images/iceland/icelandDayFive/atBlueLagoon.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:200px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*6*/#gallery46{
+    background-image: url("../images/iceland/icelandDayFive/friendsBlueLagoon.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:200px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*7*/#gallery47{
+    background-image: url("../images/iceland/icelandDayFive/blueLagoonSteam.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*8*/#gallery48{
+    background-image: url("../images/iceland/icelandDayFive/editBlueLagoon.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:300px;
+    height:190px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+/*9*/#gallery49{
+    background-image: url("../images/iceland/icelandDayFive/leavingIceland.jpeg");
+    background-size:contain;
+    background-repeat:no-repeat;
+    width:190px;
+    height:200px; 
+    padding: 30px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+
+    footer{
+        background-color: pink;
+        height:20px;
+        font-color: #595755;
+    }
+
+
+   .features{
+    text-align: center;
+   }
+
+   #pictures{
+    margin-left:auto;
+    margin-right: auto;
+   } 
+}
+
+/* Medium DEVICES (Tablets) */
+			@media only screen and (min-width: 768px){
+
+				body{
+					background-color: #FFB5B3;
+				}
+
+
+                header{
+                background-image: url("../images/nameHeader.jpg");
+                background-size:contain;
+                background-repeat:no-repeat;
+                margin-right: 5px;
+                margin-left: 5px;
+                height:60px;
+                } 
+                
+
+                footer{
+                    height:25px;
+                }
+
+                .events{
+                    width: 400px;
+                   margin-left: 200px;
+                }
+                
+                .news{
+                    width:750px;
+                    height: 320px;
+                }
+
+                #mediaImage{
+                    width:720px;
+                    height: 500px;
+                }
+
+                #contactImage{
+                    width:450px; 
+                    height:650px;
+                }
+
+                #indexPhoto{
+                width: 700px;
+                height: 300px;
+                }
+
+                #resumeImage{
+                width:600px;
+                height:900px;
+                }
+
+                footer{
+                    height:30px;
+                }
+                
+			} /* close media query */
+
+
+
+/* LARGE DEVICES (large laptops and desktops) */
+			@media only screen and (min-width: 1200px) {
+				body{
+					background-color: #FFE4CD;
+				}
+
+				.magicBox{
+	
+					width: 500px; /* cancels out original width of 300px and sets the new width to 500px; */
+				}
+
+                header{
+                background-image: url("../images/nameHeader.jpg");
+                background-size:cover;
+                background-repeat:no-repeat;
+                margin-right: 5px;
+                margin-left: 5px;
+                height:100px;
+                padding-left:30vw;
+                } 
+
+
+                footer{
+                    height:30px;
+                }
+
+                .news{
+                height: 820px;
+                width: 1090px;
+                }
+
+                .events{
+                    padding-left:500px;
+                    margin-left:650px;
+                }
+
+                #pictures{
+                    margin-left:auto;
+                    margin-right: auto;
+                }
+                
+                #mediaImage{
+                    width:1100px;
+                    height: 700px;
+                }
+
+                #aboutMePhoto{
+                    width:500px;
+                    height:700px;
+                }
+
+                #indexPhoto{
+                height: 800px;
+                width: 1070px;
+                }
+
+                #contactImage{
+                    width:500px;
+                    height:700px;
+                }
+
+                #resumeImage{
+                    width:1000px;
+                    height:1800px;
+                }
+			} /* close media query 768px */
